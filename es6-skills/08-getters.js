@@ -11,4 +11,6 @@ class Person {
 
 let jen = new Person('Jen', 'Maker');
 
+jen.fname = "Jennifer";
+
 console.log(jen.fullName);

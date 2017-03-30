@@ -1,6 +1,6 @@
 /* Turn `exampleFunction` into a one line "arrow function".
  * */
-var exampleFunction = function() { 
+var exampleFunction  = () => {
   console.log('🙌');
 }
 

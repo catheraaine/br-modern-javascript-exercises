@@ -11,4 +11,6 @@ var profile = {
 
 var twitter = profile.social.twitter;
 
+var { "first-name": fname } = profile;
+
 console.log(twitter); // https://twitter.com/hearsparkbox
